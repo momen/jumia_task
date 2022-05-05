@@ -34,7 +34,7 @@ responsible for run queue
 
 ## Install
 
-- clone repo `git clone https://github.com/zizohassan/jumia_task.git`
+- clone repo `git clone https://github.com/momen/jumia_task.git`
 - then change your directory `cd jumia_task`
 - run project `docker-compose up -d`
 
